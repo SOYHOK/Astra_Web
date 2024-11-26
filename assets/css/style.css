@@ -262,7 +262,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
 --------------------------------------*/
 .welcome-hero {
     position: relative;
-    background:url(../images/welcome-hero/home.jpg)no-repeat;
+    background:url(../images/welcome-hero/photo_6206311001117278409_y.jpg)no-repeat;
     background-position:center;
     background-size:cover;
     text-align: center;
@@ -280,7 +280,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
     z-index: -1;
 }
 .welcome-hero-txt { 
-    padding-top: 70px;
+    padding-top: 200px;
 }
 
 .welcome-hero-txt h2 {
@@ -389,7 +389,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
 }
 .team-member h2{
     font-size: 22px;
-    color: #fff;
+    color: #282828;
     margin-top: 10px;
     margin-bottom: 10px;
 }
@@ -398,7 +398,7 @@ h2 img{
     margin-left: 5px;
 }
 h3{
-    color: #fff;
+    color: #282828;
     font-size: 20px;
     padding: 5px 0 5px 0;
 
@@ -408,7 +408,7 @@ h3{
 }
 .team-member p{
     width: 200px;
-    color: #fff;
+    color: #282828;
 }
 .single-list-topics-icon img{
     width: 200px;
@@ -538,7 +538,7 @@ h3{
 --------------------------------------*/
 .explore{
     padding:117px 0 95px;
-    background: #f8fafb;
+    background:#f2f2f2;
 }
 .explore-content{margin-top: 78px;}
 
